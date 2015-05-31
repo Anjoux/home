@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Qui sommes nous ?
 permalink: /about/
 ---
 
-Some information about you!
+Quelques informations sur l'association !
 
-### More Information
+### Comment y adhérer ?
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Contactez nous
 
-[email@domain.com](mailto:email@domain.com)
+[bonjour@anjoux.eu.org](mailto:bonjour@anjoux.eu.org)
