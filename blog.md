@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog
+title: Blog de l'association
 permalink: /blog/
 ---
 
@@ -11,6 +11,7 @@ permalink: /blog/
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
+        {{ page.date | date: '%d %B %Y' }}
         {{ post.excerpt }}
       </div>
 
