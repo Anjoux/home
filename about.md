@@ -6,9 +6,9 @@ permalink: /about/
 
 Quelques informations sur l'association !
 
-### Comment y adhérer ?
+### Comment y adhérer/participer ?
 
-A place to include any other types of information that you'd like to include about yourself.
+Pour le moment, vous pouvez communiquer la page github de l'association.
 
 ### Contactez nous
 
