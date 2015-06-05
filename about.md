@@ -8,7 +8,7 @@ Quelques informations sur l'association !
 
 ### Comment y adhérer/participer ?
 
-Pour le moment, vous pouvez communiquer la page github de l'association.
+Pour le moment, vous pouvez communiquer via la page github de l'association.
 
 ### Contactez nous
 
