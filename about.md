@@ -8,7 +8,7 @@ Quelques informations sur l'association !
 
 ### Comment y adhérer/participer ?
 
-Pour le moment, vous pouvez communiquer via la page github de l'association.
+Pour vous inscrire à notre liste de diffusion : [Cliquer ici](http://eepurl.com/bpApx9)
 
 ### Contactez nous
 
