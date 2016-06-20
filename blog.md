@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Blog de l'association
+title: Blog de la communauté
 permalink: /blog/
 ---
 
