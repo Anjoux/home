@@ -8,7 +8,7 @@ Pour le moment rien de bien formel, si vous êtes intéressé : faites le nous s
 
 ### Comment y adhérer/participer ?
 
-Pour vous inscrire à notre liste de diffusion : [Cliquer ici](http://eepurl.com/bpApx9)
+Pour vous inscrire à notre liste de diffusion : [Cliquer ici](https://lists.riseup.net/www/info/anjoux)
 
 ### Contactez-nous par mail
 
